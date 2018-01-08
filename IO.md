@@ -38,7 +38,7 @@ Existem diversos tipos variáveis, mas o mais comuns são:
 2. Os numero reais ou ponto flutuante (float)
 3. Frases (string)
 
-Agora que já foi explicado tudo sobre variáveis e entrada de dados, segue uma lista de exercícios para treinar, para isso, voce deve se cadastar no site do [URI].(https://www.urionlinejudge.com.br/judge/en/login) e efetuar o login para poder começar a exercitar, basta escrever seu código que solucione o problema descrito, depois copiá-lo, clicar no botão de enviar, colar o seu código, escolher a linguagem Python 3 (Python 3.4.3)[+1s] e enviar para que um corretor online julgue seu programa como certo ou errado.
+Agora que já foi explicado tudo sobre variáveis e entrada de dados, segue uma lista de exercícios para treinar, para isso, voce deve se cadastar no site do [URI](https://www.urionlinejudge.com.br/judge/en/login) e efetuar o login para poder começar a exercitar, basta escrever seu código que solucione o problema descrito, depois copiá-lo, clicar no botão de enviar, colar o seu código, escolher a linguagem Python 3 (Python 3.4.3)[+1s] e enviar para que um corretor online julgue seu programa como certo ou errado.
 
 ## Exercícios
 1 - [Extremamente Básico](https://www.urionlinejudge.com.br/judge/pt/problems/view/1001)
