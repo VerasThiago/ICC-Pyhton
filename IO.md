@@ -42,14 +42,25 @@ Agora que já foi explicado tudo sobre variáveis e entrada de dados, segue uma 
 
 ## Exercícios
 1 - [Extremamente Básico](https://www.urionlinejudge.com.br/judge/pt/problems/view/1001)
+
 2 - [Área do Círculo](https://www.urionlinejudge.com.br/judge/pt/problems/view/1002)
+
 3 - [Soma Simples](https://www.urionlinejudge.com.br/judge/pt/problems/view/1003)
+
 4 - [Produto Simples](https://www.urionlinejudge.com.br/judge/pt/problems/view/1004)
+
 5 - [Média 1](https://www.urionlinejudge.com.br/judge/pt/problems/view/1005)
+
 6 - [Média 2](https://www.urionlinejudge.com.br/judge/pt/problems/view/1006)
+
 7 - [Diferença](https://www.urionlinejudge.com.br/judge/pt/problems/view/1007)
+
 .
+
 . Todos até 21 (Estão na ordem no site, na categoria iniciante do 1001 ~ 1021)
+
+.
+
 21 - [Notas e Moedas](https://www.urionlinejudge.com.br/judge/pt/problems/view/1021)
 
 
