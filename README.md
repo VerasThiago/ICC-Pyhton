@@ -1,2 +1,12 @@
-# ICC-Pyhton
-Computer Science Introduction - Python
+# Ementa
+
+1. [Introdução](Introducion.md)
+2. Pensamento Computacional 
+3. Variáveis e entrada de dados 
+4. Estruturas Condicionais 
+5. Estruturas de Repetição 
+6. Estrutura de dados - agregados homogêneos 
+7. Funções/Procedimentos 
+8. Estrutura de dados - agregados heterogêneos 
+9. Arquivos 
+10. Bibliotecas 
