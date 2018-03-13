@@ -9,9 +9,7 @@ Aqui iremos ver 2 maneiras:
 1. Instalando uma IDE \(Utilizado nas aulas\)  
     IDE \(Integrated Development Environment\) é um software no qual todas as ferramentas e tudo que voce irá precisar estará disponível mais facilmente, ideal para quem está começando com o ambiente de programação.
 
-```
 Link para download da IDE utilizada na matéria [AQUI](https://www.python.org/ftp/python/3.6.4/python-3.6.4.exe)
-```
 
 1. Terminal e editor de texto \(Recomendado porém NÃO É NECESSÁRIO\)  
     Um terminal é o amibiente de trabalho mais comum para um programador e junto com um editor de texto formam uma combinação ideal para um desenvolvedor inciante/intermediário
