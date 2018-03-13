@@ -1,6 +1,9 @@
 # Ementa
 
-1. [Introdução](/introduction.md)
+1. [Introd](/introduction.md)
+   ---
+
+   [ução](/introduction.md)
 2. Pensamento Computacional 
 3. [Variáveis e entrada de dados](IO.md)
 4. Estruturas Condicionais 
