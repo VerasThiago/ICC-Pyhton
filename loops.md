@@ -8,7 +8,7 @@ O for é uma estrutura de repetição que possui uma sintaxe um pouco diferente 
 
 ##### 1 - Iterações/Caminhando em números
 
-Para iterar a variável declarada no lugar de X em números, primeiro deve ser definido a variável X \(que pode ser qualquer nome da variável, porém é mais utilizado a variável i apenas por convenção\) e depois por onde que ela irá iterar/caminhar. O método `range(x)` quem em português seria "alcance" determina o intervalo limite de iterações, **note que as iterações COMEÇAM em 0** **e o limite é enquanto a iteração for menor que o valor colocado dentro do `range()`.**
+Para iterar a variável declarada no lugar de X em números, primeiro deve ser definido a variável X \(que pode ser qualquer nome da variável, porém é mais utilizado a variável i apenas por convenção\) e depois por onde que ela irá iterar/caminhar. O método `range(x)` quem em português seria "alcance" determina o intervalo limite de iterações, **note que as iterações COMEÇAM em 0** **e o limite é enquanto a iteração for menor que o valor colocado dentro do **`range()`**.**
 
 ```cpp
 # O valor de i vai começar em 0 e vai sendo incrementado de 1 em 1 enquanto i < 5
@@ -16,7 +16,7 @@ for i in range(5):
     print(i)  #Será impresso na tela os números 0,1,2,3,4
 ```
 
-        Dentro do próprio `range(x)`, pode ser colocado mais parâmetros que tornam o laço for diferente, como por exemplo
+Dentro do próprio `range(x)`, pode ser colocado mais parâmetros que tornam o laço for diferente, como por exemplo
 
 ```cpp
 # Adicionando mais 1 numero dentro do range(x, y), agora o i vai começar em x e continua enquanto x < y
