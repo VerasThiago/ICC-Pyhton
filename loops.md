@@ -30,9 +30,7 @@ for i in range(3, 10, 2): #Antes o i ia de 1 em 1, agora com o 2 no terceiro par
 
 ##### 2 - Iterações/Caminhando em outros tipos de dados
 
-```
-    Também é possível iterar em vetores, mapas e diversas estruturas de dados, como por exemplo
-```
+Também é possível iterar em vetores, mapas e diversas estruturas de dados, como por exemplo
 
 ```cpp
 nomes = ["Thiago", "Maria", "José", "Douglas"]
