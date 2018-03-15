@@ -6,9 +6,9 @@ As  estruturas de repetição, ou conhecidas também por laços de repetição, 
 
 O for é uma estrutura de repetição que possui uma sintaxe um pouco diferente das outras, pois ele pode ser escrito de diversas maneiras. Basicamente, o for é divido em 2 partes: `for X in Y` , o X vai ser uma variável que será atribuída com valores propostos em Y, como por exemplo:
 
-#####   1 - Iterações/Caminhando em números
+##### 1 - Iterações/Caminhando em números
 
-         Para iterar a variável declarada no lugar de X em números, primeiro deve ser definido a variável X \(que pode ser qualquer nome da variável, porém é mais utilizado a variável i apenas por convenção\) e depois por onde que ela irá iterar/caminhar. O método `range(x)` quem em português seria "alcance" determina o intervalo limite de iterações, **note que as iterações COMEÇAM em 0** e o limite é enquanto a iteração for menor que o valor colocado dentro do `range().`
+Para iterar a variável declarada no lugar de X em números, primeiro deve ser definido a variável X \(que pode ser qualquer nome da variável, porém é mais utilizado a variável i apenas por convenção\) e depois por onde que ela irá iterar/caminhar. O método `range(x)` quem em português seria "alcance" determina o intervalo limite de iterações, **note que as iterações COMEÇAM em 0** **e o limite é enquanto a iteração for menor que o valor colocado dentro do `range()`.**
 
 ```cpp
 # O valor de i vai começar em 0 e vai sendo incrementado de 1 em 1 enquanto i < 5
@@ -28,17 +28,17 @@ for i in range(3, 10, 2): #Antes o i ia de 1 em 1, agora com o 2 no terceiro par
     print(i) #Imprime 3, 5, 7, 9
 ```
 
-##### 1 - Iterações/Caminhando em outros tipos de dados
+##### 2 - Iterações/Caminhando em outros tipos de dados
 
-        Também é possível iterar em vetores, mapas e diversas estruturas de dados, como por exemplo
+```
+    Também é possível iterar em vetores, mapas e diversas estruturas de dados, como por exemplo
+```
 
 ```cpp
 nomes = ["Thiago", "Maria", "José", "Douglas"]
 for i in nomes:
-	print(i)
+    print(i)
 ```
-
-
 
 ### **While loops**
 
@@ -48,7 +48,7 @@ Já os laços While, que em português significa "enquanto", se assemelha com o 
 n = 10
 while(n > 0): #Enquanto o n for positivo ele continua imprimindo na tela e a cada iteração ele diminui uma unidade de n
  print(n)
- n = i - 1 
+ n = i - 1
 ```
 
 Tomem bastante cuidado para não entrar no famoso **loop infinito, **caso a condição proposta seja sempre verdade.
@@ -57,7 +57,7 @@ Tomem bastante cuidado para não entrar no famoso **loop infinito, **caso a cond
 n = 10
 while(n < 20): #Como o n já é menor que 20 e ele está decrementando o n, a condição de dentro SEMPRE será verdade
  print(n) #Irá imprimir para sempre o valor de n
- n = n - 1 
+ n = n - 1
 ```
 
 ### Break e Continue
@@ -70,7 +70,7 @@ while(n > 0):
     print(n) #Imprime 10,9,8,7,6,5
     if(n == 5): #Caso n seja = 5, o break é executado para sair do laço
         break
-    n = n-1   
+    n = n-1
 ```
 
 Já o continue é utilizado \(não somente\)  para ignorar o restante do bloco dentro o laço e partir para a próxima iteração
@@ -87,7 +87,7 @@ for i in range(5,14):
 | 1 - [Números Pares](https://www.urionlinejudge.com.br/judge/pt/problems/view/1059) | 2 - [Números Positivos](https://www.urionlinejudge.com.br/judge/pt/problems/view/1060) | 3 - [Positivos e Média](https://www.urionlinejudge.com.br/judge/pt/problems/view/1064) |
 | :--- | :--- | :--- |
 | 4 - [Pares entre Cinco Números](https://www.urionlinejudge.com.br/judge/pt/problems/view/1065) | 5 -[ Fibonacci Fácil](https://www.urionlinejudge.com.br/judge/pt/problems/view/1151) | 6 - [Dividindo X por Y](https://www.urionlinejudge.com.br/judge/pt/problems/view/1116) |
-| 7-   [Número Primo](https://www.urionlinejudge.com.br/judge/pt/problems/view/1165) |            ... Todos de repetição ... | 9 -[ Número Perfeito](https://www.urionlinejudge.com.br/judge/pt/problems/view/1164) |
+| 7-   [Número Primo](https://www.urionlinejudge.com.br/judge/pt/problems/view/1165) | ... Todos de repetição ... | 9 -[ Número Perfeito](https://www.urionlinejudge.com.br/judge/pt/problems/view/1164) |
 
 
 
