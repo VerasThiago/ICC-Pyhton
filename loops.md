@@ -18,7 +18,7 @@ for i in range(5):
 
 Dentro do próprio `range(x)`, pode ser colocado mais parâmetros que tornam o laço for diferente, como por exemplo
 
-```cpp
+```py
 # Adicionando mais 1 numero dentro do range(x, y), agora o i vai começar em x e continua enquanto x < y
 for i in range(3, 8):
     print(i) #Imprime 3,4,5,6,7
