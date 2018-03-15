@@ -1,8 +1,6 @@
-# Estruturas Condicionais
+# Estruturas de Repetição
 
-Em Python, os condicionais são bem tranquilos, são funções, que executam determinado linha de código se o que estiver na condição for verdadeiro:
-
-### If e else
+As  estruturas de repetição, ou conhecidas também por laços de repetição, são estruturas que executam uma parte do código uma certa quantidade de vezes. Se você está seguindo este guia e nunca viu     
 
 ```cpp
 x = int(input())
