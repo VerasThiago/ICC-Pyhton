@@ -5,11 +5,11 @@
 Em Python, os condicionais são bem tranquilos, são funções, que executam determinado linha de código se o que estiver na condição for verdadeiro:
 
 ```cpp
-   x = int(input())
-   if(x > 10): #Se a condição proposta dentro do if for verdadeira, ele executa o que estiver dentro do if
-      print("O número é maior que 10") #Irá imprimir na tela a msg caso o x for maior que 10
-   else:
-      print("O numero é menor ou igual a 10") #Imprime a mensagem caso a condição anterior seja falsa
+x = int(input())
+if(x > 10): #Se a condição proposta dentro do if for verdadeira, ele executa o que estiver dentro do if
+   print("O número é maior que 10") #Irá imprimir na tela a msg caso o x for maior que 10
+else:
+   print("O numero é menor ou igual a 10") #Imprime a mensagem caso a condição anterior seja falsa
 ```
 
 ### Elif
